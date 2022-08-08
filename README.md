@@ -64,7 +64,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/PingAllBot-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/karanveersinghA3/PingAllBot-TeLeTiPs?organization=karanveersinghA3&organization=karanveersinghA3))
     
 ### Okteto
 
@@ -92,4 +92,4 @@
   
 Ping All is licensed under the [GNU Affero General Public License v3.0](https://github.com/teletips/PingAllBot-TeLeTiPs/blob/main/LICENSE)
 
-Copyright ©️ 2022 TeLe TiPs. All Rights Reserved
+Copyright ©️ 2022 Karanxfutaro. All Rights Reserved
